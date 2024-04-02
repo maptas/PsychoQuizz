@@ -1,0 +1,61 @@
+* {
+    color: #858585;
+    font-family: IM FELL FRENCH CANON;
+}
+
+body {
+    text-align: center;
+    background-color: #3D3C3C;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+#souligne {
+    text-decoration: underline;
+}
+
+/*Partie NavBar, NavBarHome, Footer*/
+nav {
+    width: 100%;
+    margin: 0 auto;
+    position: sticky;
+    top: 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-shadow: 0px 15px 25px #858585;
+    background-color: #000000;
+}
+
+#imgLogo {
+    float: right;
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+}
+
+#imgHome {
+    float: left;
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+}
+
+button {
+    border-radius: 50%;
+    float: left;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+}
+
+.bidule {
+    text-align: center;
+    margin: auto;
+}

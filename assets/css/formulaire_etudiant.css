@@ -1,0 +1,33 @@
+.main {
+    background-color: #252323;
+}
+
+#titre {
+    color: white;
+    margin-top: 150px;
+}
+
+#formulaire {
+    margin-top: 20px;
+
+
+}
+
+#formulaire select {
+    width: 100px;
+    height: 40px;
+    background: transparent;
+    color: white;
+    margin-top: 50px;
+
+}
+
+#bouton {
+    display: block;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+
+
+}
